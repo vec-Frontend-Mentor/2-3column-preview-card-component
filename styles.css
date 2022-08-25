@@ -28,6 +28,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    align-items: center;
     background: hsl(0, 0%, 95%);
 }
 
@@ -98,6 +99,7 @@ p {
 
 #d1 a:hover {
     color: hsl(0, 0%, 95%);
+    cursor: pointer;
 }
 
 #d2 a {
@@ -106,6 +108,7 @@ p {
 
 #d2 a:hover {
     color: hsl(0, 0%, 95%);
+    cursor: pointer;
 }
 
 #d3 a {
@@ -114,4 +117,5 @@ p {
 
 #d3 a:hover {
     color: hsl(0, 0%, 95%);
+    cursor: pointer;
 }
