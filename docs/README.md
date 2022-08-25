@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-card-with-css-flexbox-upg-38yEF0)
-- Live Site URL: [Live Site](https://vec-frontend-mentor.github.io/1-qr-code-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-card-with-flexbox-and-hover-selector-AAj5ivBLdJ)
+- Live Site URL: [Live Site](https://vec-frontend-mentor.github.io/2-3column-preview-card-component/)
 
 ### Built with
 
@@ -31,14 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I used this challenge as a way to practice the fundamentals of the flexbox, and also to play
-around with many properties I wasn't familiar with yet.
-
-### Useful resources
-
-- [CSS Tutorial - Zero to Hero (YouTube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=13315s) - This 6 hour CSS tutorial has helped me a lot
-with learning the fundamentals of CSS.
-- [CSS Flexbox Cheat Sheet (Google Docs)](https://docs.google.com/document/d/1jWpqeNW9f6phCx9E4MJi5-VPRjdswY_A_wr4pIoeSvA/edit) - This is a Google doc I found that was helpful as a reference for flexbox.
+I got better at positioning with flexbox and learned about the hover selector.
 
 ## Author
 
