@@ -45,7 +45,7 @@ main {
     display: flex;
     flex-direction: column;
     max-width: 19rem;
-    min-height: 35rem;
+    max-height: 33rem;
     padding: 3rem;
 }
 
@@ -76,6 +76,7 @@ p {
     font-family: 'Lexend Deca', sans-serif;
     line-height: 2rem;
     font-size: 15px;
+    margin-bottom: 6rem;
 }
 
 .button {
@@ -86,14 +87,31 @@ p {
     padding: 0.8rem 1.9rem;
 }
 
+.button:hover {
+    background-color: inherit;
+    border: 2px solid hsl(0, 0%, 95%);
+}
+
 #d1 a {
     color: hsl(31, 77%, 52%);
+}
+
+#d1 a:hover {
+    color: hsl(0, 0%, 95%);
 }
 
 #d2 a {
     color: hsl(184, 100%, 22%);
 }
 
+#d2 a:hover {
+    color: hsl(0, 0%, 95%);
+}
+
 #d3 a {
     color: hsl(179, 100%, 13%);
+}
+
+#d3 a:hover {
+    color: hsl(0, 0%, 95%);
 }
