@@ -1,6 +1,6 @@
 # Frontend Mentor - 3 Column Preview Card
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [3-column preview card component](https://www.frontendmentor.io/solutions/3-column-card-with-flexbox-and-hover-selector-AAj5ivBLdJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
